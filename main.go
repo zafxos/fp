@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	color.Red("Hello Vlad")
+	color.Green("Hello Vlad")
 }
